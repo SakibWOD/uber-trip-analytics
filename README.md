@@ -141,7 +141,7 @@ Add your dashboard screenshot here:
 uber-trip-analytics/
 │
 ├── data/
-│   └── uber_clean.csv
+│   └── my_uber.csv
 │
 ├── sql/
 │   ├── phase1_basic_analysis.sql
