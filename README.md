@@ -130,7 +130,9 @@ The dashboard provides:
 Add your dashboard screenshot here:
 
 ```markdown
+<img width="4267" height="2809" alt="Dashboard" src="https://github.com/user-attachments/assets/66b3b6f5-5349-4578-9e02-c19406406192" />
 ![Dashboard](screenshots/dashboard.png)
+
 ```
 
 ---
